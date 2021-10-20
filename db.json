@@ -1,0 +1,19 @@
+{
+  "cars": [
+    {
+      "id": "oniboiUN",
+      "mark": "Lexus",
+      "model": "Ls500h"
+    },
+    {
+      "id": "jfcYYCGu",
+      "mark": "Lexus",
+      "model": "Nx300h"
+    },
+    {
+      "id": "UVIBibnT",
+      "mark": "Lexus",
+      "model": "Lc500h"
+    }
+  ]
+}
